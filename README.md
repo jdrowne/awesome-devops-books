@@ -66,7 +66,7 @@ The following books cover those subjects.
 * ***Ansible for DevOps: Server and Configuration Management for Humans*** by [@geerlinguy](https://github.com/geerlinguy). A product of its time but still a great practical introduction to Ansible.
 * ***HTTP: The Definitive Guide***
 * ***Infrastructure as Code: Managing Servers in the Cloud*** by [@kief](https://github.com/kief). The best book in the market that details every single pattern and anti-pattern on how to manage infrastructure properly in the modern world. Explains why and what rather than how.
-* ***Terraform: Up & Running*** by [@brikis98](https://github.com/brikis) from [@gruntwork](https://github.com/gruntwork). Briefly explains why and what to then dig deep into how to manage infrastructure properly in the modern work. Even though the book is written from a Terraform perspective, it should be read by anyone who manages infrastructure.
+* ***Terraform: Up & Running*** by [@brikis98](https://github.com/brikis) from [@gruntwork](https://github.com/gruntwork). Briefly explains why and what to then dig deep into how to manage infrastructure properly in the modern world. Even though the book is written from a Terraform perspective, it should be read by anyone who manages infrastructure.
 
 ### Networking
 * ***CompTIA Network+ Certification All-in-One Exam Guide***
