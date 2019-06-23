@@ -2,66 +2,70 @@
 This is a list of curated books related to DevOps practices.
 
 ## Table of Contents
-- Books
-  - [Technical](#technical)
-    * [Agile](#agile)
-    * [CI/CD](#ci-cd)
-    * [Containers](#containers)
-    * [DevOps](#devops)
-    * [Infrastructure](#infrastructure)
-    * [Networking](#networking)
-    * [Operating Systems](#operating-systems)
-    * [Programming Languages](#programming-languages)
-    * [Security](#security)
-    * [Software Engineering](#software-engineering)
-    * [Systems](#systems)
-    * [Testing](#testing)
-    * [Version Control](#version-control)
-  - [Soft Skills](#soft-skills)
-    * [Argumentation](#argumentation)
-    * [Design](#design)
-    * [Logic](#logic)
-    * [Organizational Management](#organizational-management)
-    * [Persuasion](#persuasion)
-    * [Presentation](#presentation)
-    * [Product Management](#product-management)
-    * [Research](#research)
-    * [Teamwork](#teamwork)
-    * [Training](#training)
-    * [Writing](#writing)
+- [Technical Books](#technical-books)
+  * [Agile](#agile)
+  * [CI/CD](#ci-cd)
+  * [Containers](#containers)
+  * [DevOps](#devops)
+  * [Infrastructure](#infrastructure)
+  * [Networking](#networking)
+  * [Operating Systems](#operating-systems)
+  * [Programming Languages](#programming-languages)
+  * [Security](#security)
+  * [Software Engineering](#software-engineering)
+  * [Systems](#systems)
+  * [Testing](#testing)
+  * [Version Control](#version-control)
+- [Soft Skills Books](#soft-skills-books)
+  * [Argumentation](#argumentation)
+  * [Design](#design)
+  * [Logic](#logic)
+  * [Organizational Management](#organizational-management)
+  * [Persuasion](#persuasion)
+  * [Presentation](#presentation)
+  * [Product Management](#product-management)
+  * [Research](#research)
+  * [Teamwork](#teamwork)
+  * [Training](#training)
+  * [Writing](#writing)
 - [License](#license)
 
 
 ## Technical
+As a DevOps practitioner you must master several technical concepts and
+technologies.
 
 ### Agile
+Agile will likely be the systems development approach used by DevOps
+organizations. You must thus understand its concepts, origin, anti-patterns.
+The following books cover those subjects.
 * *Agile Estimating and Planning*
 * *Agile Extension to the BABOK Guide*
-* *Scrum: a Breathtakingly Brief and Agile Introduction*
+* *Scrum: a Breathtakingly Brief and Agile Introduction* by Chris Sims and @hillaryjohnson. *The* Scrum book your team will be flicking through every week to implement Scrum properly. A quick read.
 * *User Stories Applied: For Agile Software Development*
 
 ### CI/CD
-* *Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*
-* *Continuous Integration: Improving Software Quality and Reducing Risk*
-* *Jenkins 2: Up & Running*
+* *Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation* by @jezhumble and @davidfarley77. The seminal book that changed the systems development field forever. Many had written about CI/CD concepts before, but Humble and Farley were the first to write a publication that encompassed all the aspects of continuous delivery cohesively into a single tome. CD has evolved since the book's publication, but *the* CD book is a must-read for every DevOps practitioner.
+* *Continuous Integration: Improving Software Quality and Reducing Risk* by @paulduvall, Steve Matyas, and @aglover. A product of its time. This CI book pave the way for others to expand on CI/CD practices.
+* *Jenkins 2: Up & Running* by @brentlaster and endorsed by @koshuke himself.
 
 ### Containers
-* *Docker Deep Dive*
-* *Kubernetes in Action*
-* *The Kubernetes Book*
+* *Docker Deep Dive* by @nigelpoulton, a Docker Captain. The book to-go for starting to learn about Docker.
+* *Kubernetes in Action* by @luksa, a Red Hat software engineer. The most in-depth Kubernetes book available in the market as of this writing.
+* *The Kubernetes Book* by @nigelpoulton, a Docker Captain.
 
 ### DevOps
-* *DevOps: A Software Architect's Perspective*
+* *DevOps: A Software Architect's Perspective* by Len Bass, Ingo Weber, and Liming Zhu. *The* DevOps book.
 * *DevOps For The Modern Enterprise: Winning Practices to Transform Legacy IT Organizations*
 * *Start and Scaling DevOps in the Enterprise*
-* *The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations*
-* *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*
+* *The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations* by @genekim, @jedi4ever, @botchagalupe, and @jezhumble. A non-fiction follow up to *The Phoenix Project*. The book explains several DevOps practices and provides several case-studies of how those practices worked in real life for different organizations.
+* *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win* by @genekim, Kevin Behr, and George Spafford. A fiction that provides context on how DevOps can increase productivity.
 
 ### Infrastructure
-* *Ansible for DevOps: Server and Configuration Management for Humans*
+* *Ansible for DevOps: Server and Configuration Management for Humans* by @geerlinguy. A product of its time but still a great practical introduction to Ansible.
 * *HTTP: The Definitive Guide*
-* *Infrastructure as Code: Managing Servers in the Cloud*
-* *Terraform: Up & Running*
+* *Infrastructure as Code: Managing Servers in the Cloud* by @kief. The best book in the market that details every single pattern and anti-pattern on how to manage infrastructure properly in the modern world. Explains why and what rather than how.
+* *Terraform: Up & Running* by @brikis98 from @gruntwork. Briefly explains why and what to then dig deep into how to manage infrastructure properly in the modern work. Even though the book is written from a Terraform perspective, it should be read by anyone who manages infrastructure.
 
 ### Networking
 * *CompTIA Network+ Certification All-in-One Exam Guide*
