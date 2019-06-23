@@ -45,7 +45,7 @@ The following books cover those subjects.
 * ***User Stories Applied: For Agile Software Development***
 
 ### CI/CD
-* ***Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*** by [@jezhumble](https://github.com/jezhumble) and [@davidfarley](https://github.com/davidfarley)77. The seminal book that changed the systems development field forever. Many had written about CI/CD concepts before, but Humble and Farley were the first to write a publication that encompassed all the aspects of continuous delivery cohesively into a single tome. CD has evolved since the book's publication, but *the* CD book is a must-read for every DevOps practitioner.
+* ***Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*** by [@jezhumble](https://github.com/jezhumble) and [@davidfarley77](https://github.com/davidfarley). The seminal book that changed the systems development field forever. Many had written about CI/CD concepts before, but Humble and Farley were the first to write a publication that encompassed all the aspects of continuous delivery cohesively into a single tome. CD has evolved since the book's publication, but *the* CD book is a must-read for every DevOps practitioner.
 * ***Continuous Integration: Improving Software Quality and Reducing Risk*** by [@paulduvall](https://github.com/paulduvall), Steve Matyas, and [@aglover](https://github.com/aglover). A product of its time. This CI book pave the way for others to expand on CI/CD practices.
 * ***Jenkins 2: Up & Running*** by [@brentlaster](https://github.com/brentlaster) and endorsed by [@koshuke](https://github.com/koshuke) himself.
 
