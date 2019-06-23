@@ -33,12 +33,12 @@ This is a list of curated books related to DevOps practices.
 
 ## Technical
 As a DevOps practitioner you must master several technical concepts and
-technologies.
+technologies. The following books focus on several DevOps concepts and technologies.
 
 ### Agile
 Agile will likely be the systems development approach used by DevOps
-organizations. You must thus understand its concepts, origin, anti-patterns.
-The following books cover those subjects.
+organizations. You must thus understand its concepts, origins, and
+anti-patterns. The following books cover those subjects.
 * ***Agile Estimating and Planning***
 * ***Agile Extension to the BABOK Guide***
 * ***Scrum: a Breathtakingly Brief and Agile Introduction*** by Chris Sims and [@hillaryjohnson](https://github.com/hillaryjohnson). *The* Scrum book your team will be flicking through every week to implement Scrum properly. A quick read.
@@ -60,13 +60,13 @@ The following books cover those subjects.
 * ***DevOps For The Modern Enterprise: Winning Practices to Transform Legacy IT Organizations***
 * ***Start and Scaling DevOps in the Enterprise***
 * ***The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations*** by [@genekim](https://github.com/genekim), [@jedi4ever](https://github.com/jedi), [@botchagalupe](https://github.com/botchagalupe), and [@jezhumble](https://github.com/jezhumble). A non-fiction follow up to *The Phoenix Project*. The book explains several DevOps practices and provides several case-studies of how those practices worked in real life for different organizations.
-* ***The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*** by [@genekim](https://github.com/genekim), Kevin Behr, and George Spafford. A fiction that provides context on how DevOps can increase productivity.
+* ***The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*** by [@genekim](https://github.com/genekim), Kevin Behr, and George Spafford. A fictional book that provides context on how DevOps can increase productivity.
 
 ### Infrastructure
 * ***Ansible for DevOps: Server and Configuration Management for Humans*** by [@geerlinguy](https://github.com/geerlinguy). A product of its time but still a great practical introduction to Ansible.
 * ***HTTP: The Definitive Guide***
-* ***Infrastructure as Code: Managing Servers in the Cloud*** by [@kief](https://github.com/kief). The best book in the market that details every single pattern and anti-pattern on how to manage infrastructure properly in the modern world. Explains why and what rather than how.
-* ***Terraform: Up & Running*** by [@brikis98](https://github.com/brikis) from [@gruntwork](https://github.com/gruntwork). Briefly explains why and what to then dig deep into how to manage infrastructure properly in the modern world. Even though the book is written from a Terraform perspective, it should be read by anyone who manages infrastructure.
+* ***Infrastructure as Code: Managing Servers in the Cloud*** by [@kief](https://github.com/kief). The best book in the market that details every major pattern and anti-pattern on how to manage infrastructure properly in the modern world. Explains why and what rather than how.
+* ***Terraform: Up & Running*** by [@brikis98](https://github.com/brikis) from [@gruntwork](https://github.com/gruntwork). Briefly explains why and what to then dig deep into the how. Even though the book is written from a Terraform perspective, it should be read by anyone who manages infrastructure.
 
 ### Networking
 * ***CompTIA Network+ Certification All-in-One Exam Guide***
@@ -132,10 +132,10 @@ The following books cover those subjects.
 * ***Agile Testing: A Practical Guide for Testers and Agile Teams***
 * ***How Google Tests Software***
 * ***Lessons Learned in Software Testing: A Context-Driven Approach***
-* ***Testing Computer Software***
+* ***Software System Testing and Quality Assurance***
 * ***Software Testing***
 * ***Software Testing Techniques***
-* ***Software System Testing and Quality Assurance***
+* ***Testing Computer Software***
 
 ### Version Control
 * ***Git Pocket Guide: A Working Introduction***
@@ -171,8 +171,6 @@ The following books cover those subjects.
 * ***One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964: The Secret History of the Cuban Missile Crisis***
 * ***The Goal: A Process of Ongoing Improvement***
 * ***The High-Velocity Edge: How Market Leaders Leverage Operational Excellence to Beat the Competition***
-* ***The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues***
-* ***The Joy of Conflict Resolution: Transforming Victims, Villains and Heroes in the Workplace and at Home***
 * ***The Lean Startup***
 * ***The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully***
 * ***The Trusted Advisor***
@@ -225,8 +223,8 @@ The following books cover those subjects.
 * ***How to Make an Impact: Influence, Inform and Impress With Your Reports, Presentations and Business Documents***
 * ***How to Read a Book: The Classic Guide to Intelligent Reading***
 * ***It Was the Best of Sentences, It Was the Worst of Sentences: A Writer's Guide to Crafting Killer Sentences***
-* ***Linguistic Relativity: Evidence Across Languages and Cognitive Domains***
 * ***Line by Line: How to Edit Your Own Writing***
+* ***Linguistic Relativity: Evidence Across Languages and Cognitive Domains***
 * ***Make Your Writing Flow: A Practical Guide to Transitional Words and Phrases***
 * ***On Writing Well: The Classic Guide to Writing Nonfiction***
 * ***Style: The Basics of Clarity and Grace***
