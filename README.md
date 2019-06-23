@@ -41,31 +41,31 @@ organizations. You must thus understand its concepts, origin, anti-patterns.
 The following books cover those subjects.
 * *Agile Estimating and Planning*
 * *Agile Extension to the BABOK Guide*
-* *Scrum: a Breathtakingly Brief and Agile Introduction* by Chris Sims and @[hillaryjohnson](https://github.com/hillaryjohnson). *The* Scrum book your team will be flicking through every week to implement Scrum properly. A quick read.
+* *Scrum: a Breathtakingly Brief and Agile Introduction* by Chris Sims and [@hillaryjohnson](https://github.com/hillaryjohnson). *The* Scrum book your team will be flicking through every week to implement Scrum properly. A quick read.
 * *User Stories Applied: For Agile Software Development*
 
 ### CI/CD
-* *Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation* by @[jezhumble](https://github.com/jezhumble) and @[davidfarley](https://github.com/davidfarley)77. The seminal book that changed the systems development field forever. Many had written about CI/CD concepts before, but Humble and Farley were the first to write a publication that encompassed all the aspects of continuous delivery cohesively into a single tome. CD has evolved since the book's publication, but *the* CD book is a must-read for every DevOps practitioner.
-* *Continuous Integration: Improving Software Quality and Reducing Risk* by @[paulduvall](https://github.com/paulduvall), Steve Matyas, and @[aglover](https://github.com/aglover). A product of its time. This CI book pave the way for others to expand on CI/CD practices.
-* *Jenkins 2: Up & Running* by @[brentlaster](https://github.com/brentlaster) and endorsed by @[koshuke](https://github.com/koshuke) himself.
+* *Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation* by [@jezhumble](https://github.com/jezhumble) and [@davidfarley](https://github.com/davidfarley)77. The seminal book that changed the systems development field forever. Many had written about CI/CD concepts before, but Humble and Farley were the first to write a publication that encompassed all the aspects of continuous delivery cohesively into a single tome. CD has evolved since the book's publication, but *the* CD book is a must-read for every DevOps practitioner.
+* *Continuous Integration: Improving Software Quality and Reducing Risk* by [@paulduvall](https://github.com/paulduvall), Steve Matyas, and [@aglover](https://github.com/aglover). A product of its time. This CI book pave the way for others to expand on CI/CD practices.
+* *Jenkins 2: Up & Running* by [@brentlaster](https://github.com/brentlaster) and endorsed by [@koshuke](https://github.com/koshuke) himself.
 
 ### Containers
-* *Docker Deep Dive* by @[nigelpoulton](https://github.com/nigelpoulton), a Docker Captain. The book to-go for starting to learn about Docker.
-* *Kubernetes in Action* by @[luksa](https://github.com/luksa), a Red Hat software engineer. The most in-depth Kubernetes book available in the market as of this writing.
-* *The Kubernetes Book* by @[nigelpoulton](https://github.com/nigelpoulton), a Docker Captain.
+* *Docker Deep Dive* by [@nigelpoulton](https://github.com/nigelpoulton), a Docker Captain. The book to-go for starting to learn about Docker.
+* *Kubernetes in Action* by [@luksa](https://github.com/luksa), a Red Hat software engineer. The most in-depth Kubernetes book available in the market as of this writing.
+* *The Kubernetes Book* by [@nigelpoulton](https://github.com/nigelpoulton), a Docker Captain.
 
 ### DevOps
 * *DevOps: A Software Architect's Perspective* by Len Bass, Ingo Weber, and Liming Zhu. *The* DevOps book.
 * *DevOps For The Modern Enterprise: Winning Practices to Transform Legacy IT Organizations*
 * *Start and Scaling DevOps in the Enterprise*
-* *The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations* by @[genekim](https://github.com/genekim), @[jedi](https://github.com/jedi)4ever, @[botchagalupe](https://github.com/botchagalupe), and @[jezhumble](https://github.com/jezhumble). A non-fiction follow up to *The Phoenix Project*. The book explains several DevOps practices and provides several case-studies of how those practices worked in real life for different organizations.
-* *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win* by @[genekim](https://github.com/genekim), Kevin Behr, and George Spafford. A fiction that provides context on how DevOps can increase productivity.
+* *The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations* by [@genekim](https://github.com/genekim), [@jedi](https://github.com/jedi)4ever, [@botchagalupe](https://github.com/botchagalupe), and [@jezhumble](https://github.com/jezhumble). A non-fiction follow up to *The Phoenix Project*. The book explains several DevOps practices and provides several case-studies of how those practices worked in real life for different organizations.
+* *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win* by [@genekim](https://github.com/genekim), Kevin Behr, and George Spafford. A fiction that provides context on how DevOps can increase productivity.
 
 ### Infrastructure
-* *Ansible for DevOps: Server and Configuration Management for Humans* by @[geerlinguy](https://github.com/geerlinguy). A product of its time but still a great practical introduction to Ansible.
+* *Ansible for DevOps: Server and Configuration Management for Humans* by [@geerlinguy](https://github.com/geerlinguy). A product of its time but still a great practical introduction to Ansible.
 * *HTTP: The Definitive Guide*
-* *Infrastructure as Code: Managing Servers in the Cloud* by @[kief](https://github.com/kief). The best book in the market that details every single pattern and anti-pattern on how to manage infrastructure properly in the modern world. Explains why and what rather than how.
-* *Terraform: Up & Running* by @[brikis](https://github.com/brikis)98 from @[gruntwork](https://github.com/gruntwork). Briefly explains why and what to then dig deep into how to manage infrastructure properly in the modern work. Even though the book is written from a Terraform perspective, it should be read by anyone who manages infrastructure.
+* *Infrastructure as Code: Managing Servers in the Cloud* by [@kief](https://github.com/kief). The best book in the market that details every single pattern and anti-pattern on how to manage infrastructure properly in the modern world. Explains why and what rather than how.
+* *Terraform: Up & Running* by [@brikis](https://github.com/brikis)98 from [@gruntwork](https://github.com/gruntwork). Briefly explains why and what to then dig deep into how to manage infrastructure properly in the modern work. Even though the book is written from a Terraform perspective, it should be read by anyone who manages infrastructure.
 
 ### Networking
 * *CompTIA Network+ Certification All-in-One Exam Guide*
