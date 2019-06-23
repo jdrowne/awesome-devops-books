@@ -2,6 +2,31 @@
 
 ## Table of Contents
 - [Technical](#technical)
+* [Agile](#agile)
+* [CI/CD](#ci-cd)
+* [Containers](#containers)
+* [DevOps](#devops)
+* [Infrastructure](#infrastructure)
+* [Networking](#networking)
+* [Operating Systems](#operating-systems)
+* [Programming Languages](#programming-languages)
+* [Security](#security)
+* [Software Engineering](#software-engineering)
+* [Systems](#systems)
+* [Testing](#testing)
+* [Version Control](#version-control)
+- [Soft Skills](#soft-skills)
+* [Argumentation](#argumentation)
+* [Design](#design)
+* [Logic](#logic)
+* [Organizational Management](#organizational-management)
+* [Persuasion](#persuasion)
+* [Presentation](#presentation)
+* [Product Management](#product-management)
+* [Research](#research)
+* [Teamwork](#teamwork)
+* [Training](#training)
+* [Writing](#writing)
 
 ## Technical
 
