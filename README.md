@@ -61,6 +61,7 @@ This is a list of curated books related to DevOps practices.
 * *Terraform: Up & Running*
 
 ### Networking
+* *CompTIA Network+ Certification All-in-One Exam Guide*
 * *TCP/IP Illustrated, Vol. 1: The Protocols*
 
 ### Operating Systems
@@ -86,6 +87,7 @@ This is a list of curated books related to DevOps practices.
 * *The Go Programming Language*
 
 ### Security
+* *CompTIA Security+ Get Certified Get Ahead*
 * *IT Auditing: Using Controls to Protect Information Assets*
 * *Linux Security Cookbook*
 * *Securing DevOps: Security in the Cloud*
@@ -224,3 +226,8 @@ This is a list of curated books related to DevOps practices.
 * *Writing a Research Paper in Political Science: A Practical Guide to Inquiry, Structure, and Methods*
 * *Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded*
 * *Writing White Papers: How to Capture Readers and Keep Them Engaged*
+
+## License
+This work was originally created by
+[Jose Drowne](http://www.linkedin.com/in/jdrowne) who
+[released it under public domain](LICENSE.txt).
