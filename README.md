@@ -1,42 +1,40 @@
 # awesome-devops-books
 
-## Books
+## Technical
 
-### Technical
-
-#### Agile
+### Agile
 * *Agile Estimating and Planning*
 * *Agile Extension to the BABOK Guide*
 * *Scrum: a Breathtakingly Brief and Agile Introduction*
 * *User Stories Applied: For Agile Software Development*
 
-#### CI/CD
+### CI/CD
 * *Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*
 * *Continuous Integration: Improving Software Quality and Reducing Risk*
 * *Jenkins 2: Up & Running*
 
-#### Containers
+### Containers
 * *Docker Deep Dive*
 * *Kubernetes in Action*
 * *The Kubernetes Book*
 
-#### DevOps
+### DevOps
 * *DevOps: A Software Architect's Perspective*
 * *DevOps For The Modern Enterprise: Winning Practices to Transform Legacy IT Organizations*
 * *Start and Scaling DevOps in the Enterprise*
 * *The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations*
 * *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*
 
-#### Infrastructure
+### Infrastructure
 * *Ansible for DevOps: Server and Configuration Management for Humans*
 * *HTTP: The Definitive Guide*
 * *Infrastructure as Code: Managing Servers in the Cloud*
 * *Terraform: Up & Running*
 
-#### Networking
+### Networking
 * *TCP/IP Illustrated, Vol. 1: The Protocols*
 
-#### Operating Systems
+### Operating Systems
 * *Advanced Programming in the UNIX Environment*
 * *bash Cookbook: Solutions and Examples for bash Users*
 * *Bash Pocket Reference: Help for Power Users and Sys Admins*
@@ -51,19 +49,19 @@
 * *The Unix Programming Environment*
 * *Understanding the Linux Kernel*
 
-#### Programming Languages
+### Programming Languages
 * *C Programming Language*
 * *Groovy in Action*
 * *Python Pocket Reference*
 * *sed & awk*
 * *The Go Programming Language*
 
-#### Security
+### Security
 * *IT Auditing: Using Controls to Protect Information Assets*
 * *Linux Security Cookbook*
 * *Securing DevOps: Security in the Cloud*
 
-#### Software Engineering
+### Software Engineering
 * *Code Complete: A Practical Handbook of Software Construction*
 * *Design Patterns: Elements of Reusable Object-Oriented Software*
 * *Extreme Programming Explained: Embrace Change*
@@ -79,7 +77,7 @@
 * *The Mythical Man-Month: Essays on Software Engineering*
 * *The Pragmatic Programmer: From Journeyman to Master*
 
-#### Systems
+### Systems
 * *Computer Organization and Design*
 * *Computer Systems: A Programmer's Perspective*
 * *IT Systems Management: Designing, Implementing, and Managing World-Class Infrastructures*
@@ -90,7 +88,7 @@
 * *The Practice of System and Network Administration*
 * *The Site Reliability Workbook: Practical Ways to Implement SRE*
 
-#### Testing
+### Testing
 * *A Friendly Introduction to Software Testing*
 * *Agile Testing: A Practical Guide for Testers and Agile Teams*
 * *How Google Tests Software*
@@ -100,14 +98,14 @@
 * *Software Testing Techniques*
 * *Software System Testing and Quality Assurance*
 
-#### Version Control
+### Version Control
 * *Git Pocket Guide: A Working Introduction*
 * *Learn Version Control with Git: A step-by-step course for the complete beginner*
 * *Pro Git*
 
-### Soft Skills
+## Soft Skills
 
-#### Argumentation
+### Argumentation
 * *A Rulebook for Arguments*
 * *A Workbook for Arguments: A Complete Course in Critical Thinking*
 * *An Illustrated Book of Bad Arguments*
@@ -115,18 +113,18 @@
 * *How to Argue & Win Every Time: At Home, At Work, In Court, Everywhere, Everyday*
 * *Thank You for Arguing: What Aristotle, Lincoln, and Homer Simpson Can Teach Us About the Art of Persuasion*
 
-#### Design
+### Design
 * *Don't Make Me Think: A Common Sense Approach to Web Usability*
 * *Emotional Design: Why We Love (or Hate) Everyday Things*
 * *The Design of Everyday Things*
 
-#### Logic
+### Logic
 * *Asking the Right Questions: A Guide to Critical Thinking*
 * *Being Logical: A Guide to Good Thinking*
 * *Crimes Against Logic: Exposing the Bogus Arguments of Politicians, Priests, Journalists, and Other Serial Offenders*
 * *The Science Of Correct Thinking: Logic*
 
-#### Organizational Management
+### Organizational Management
 * *A Guide to Benefit-Cost Analysis*
 * *A Guide to the Business Analysis Body of Knowledge*
 * *Leadership: Theory and Practice*
@@ -142,7 +140,7 @@
 * *Toyota Production System: Beyond Large-Scale Production*
 * *Understanding and Managing Public Organizations*
 
-#### Persuasion
+### Persuasion
 * *Essentials of Negotiation*
 * *Getting Things Done When You Are Not in Charge*
 * *Influence: The Psychology of Persuasion*
@@ -150,23 +148,23 @@
 * *Switch: How to Change Things When Change Is Hard*
 * *The Back of the Napkin: Solving Problems and Selling Ideas with Pictures*
 
-#### Presentation
+### Presentation
 * *Before and After Graphics for Business*
 * *Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams*
 * *slide:ology: The Art and Science of Creating Great Presentations*
 * *The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures*
 * *Visual Meetings: How Graphics, Sticky Notes and Idea Mapping Can Transform Group Productivity*
 
-#### Product Management
+### Product Management
 * *Inspired: How to Create Tech Products Customers Love*
 * *The Four Steps to the Epiphany: Successful Strategies for Products that Win*
 * *The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity*
 * *The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you*
 
-#### Research
+### Research
 * *Guide to Methods for Students of Political Science*
 
-#### Teamwork
+### Teamwork
 * *Extraordinary Groups: How Ordinary Teams Achieve Amazing Results*
 * *Overcoming the Five Dysfunctions of a Team: A Field Guide for Leaders, Managers, and Facilitators*
 * *The Culture Code: The Secrets of Highly Successful Groups*
@@ -174,13 +172,13 @@
 * *The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues*
 * *The Joy of Conflict Resolution: Transforming Victims, Villains and Heroes in the Workplace and at Home*
 
-#### Training
+### Training
 * *75 Ways for Managers to Hire, Develop, and Keep Great Employees*
 * *Developing Employees*
 * *Employee Development on a Shoestring*
 * *How to Start a Training Program: Training is a Strategic Business Tool in Any Organization*
 
-#### Writing
+### Writing
 * *A Writer's Guide to Eight Methods of Transition*
 * *A Writer's Guide to Powerful Paragraphs*
 * *A Writer's Guide to Transitional Words and Expressions*
