@@ -59,7 +59,7 @@ The following books cover those subjects.
 ).
 * ***DevOps For The Modern Enterprise: Winning Practices to Transform Legacy IT Organizations***
 * ***Start and Scaling DevOps in the Enterprise***
-* ***The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations*** by [@genekim](https://github.com/genekim), [@jedi](https://github.com/jedi)4ever, [@botchagalupe](https://github.com/botchagalupe), and [@jezhumble](https://github.com/jezhumble). A non-fiction follow up to *The Phoenix Project***. The book explains several DevOps practices and provides several case-studies of how those practices worked in real life for different organizations.
+* ***The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations*** by [@genekim](https://github.com/genekim), [@jedi4ever](https://github.com/jedi), [@botchagalupe](https://github.com/botchagalupe), and [@jezhumble](https://github.com/jezhumble). A non-fiction follow up to *The Phoenix Project***. The book explains several DevOps practices and provides several case-studies of how those practices worked in real life for different organizations.
 * ***The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*** by [@genekim](https://github.com/genekim), Kevin Behr, and George Spafford. A fiction that provides context on how DevOps can increase productivity.
 
 ### Infrastructure
