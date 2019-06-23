@@ -236,4 +236,4 @@ anti-patterns. The following books cover those subjects.
 ## License
 This work was originally created by
 [Jose Drowne](http://www.linkedin.com/in/jdrowne) who
-[released it under public domain](LICENSE.txt).
+[released it under public domain](LICENSE.md).
