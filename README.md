@@ -233,6 +233,9 @@ anti-patterns. The following books cover those subjects.
 * ***Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded***
 * ***Writing White Papers: How to Capture Readers and Keep Them Engaged***
 
+## Contributing
+Submit a pull request.
+
 ## License
 This work was originally created by
 [Jose Drowne](http://www.linkedin.com/in/jdrowne) who
