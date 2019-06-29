@@ -28,6 +28,7 @@ This is a list of curated books related to DevOps practices.
   * [Teamwork](#teamwork)
   * [Training](#training)
   * [Writing](#writing)
+- [Contributing](#contributing)
 - [License](#license)
 
 
