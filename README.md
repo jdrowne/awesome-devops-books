@@ -91,7 +91,9 @@ anti-patterns. The following books cover those subjects.
 ### Programming Languages
 * ***C Programming Language***
 * ***Groovy in Action***
+* ***Java Software Solutions: Foundations of Program Design***
 * ***Python Pocket Reference***
+* ***Python Programming for the Absolute Beginner***
 * ***sed & awk***
 * ***The Go Programming Language***
 
