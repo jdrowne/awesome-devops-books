@@ -8,13 +8,17 @@ This is a list of curated books related to DevOps practices.
   * [Containers](#containers)
   * [DevOps](#devops)
   * [Infrastructure](#infrastructure)
+  * [Linux](#linux)
   * [Networking](#networking)
   * [Operating Systems](#operating-systems)
   * [Programming Languages](#programming-languages)
+  * [Requirements Engineering](#requirements-engineering)
   * [Security](#security)
+  * [Shell Scripting](#shell-scripting)
   * [Software Engineering](#software-engineering)
   * [Systems](#systems)
   * [Testing](#testing)
+  * [Unix](#unix)
   * [Version Control](#version-control)
 - [Soft Skills Books](#soft-skills-books)
   * [Argumentation](#argumentation)
@@ -69,24 +73,27 @@ anti-patterns. The following books cover those subjects.
 * ***Infrastructure as Code: Managing Servers in the Cloud*** by [@kief](https://github.com/kief). The best book in the market that details every major pattern and anti-pattern on how to manage infrastructure properly in the modern world. Explains why and what rather than how.
 * ***Terraform: Up & Running*** by [@brikis98](https://github.com/brikis) from [@gruntwork](https://github.com/gruntwork). Briefly explains why and what to then dig deep into the how. Even though the book is written from a Terraform perspective, it should be read by anyone who manages infrastructure.
 
+### Linux
+* ***How Linux Works: What Every Superuser Should Know***
+* ***Linux and the Unix Philosophy***
+* ***Linux Bible***
+* ***Linux Core Kernel Commentary: Guide to Insider's Knowledge on the Core Kernel of the Linux Code***
+* ***Linux Command Line and Shell Scripting Bible***
+* ***Linux Device Drivers: Where the Kernel Meets the Hardware***
+* ***Linux Kernel Development***
+* ***Linux Pocket Guide***
+* ***Linux System Programming: Talking Directly to the Kernel and C Library***
+* ***Understanding Linux Network Internals: Guided Tour to Networking on Linux***
+* ***Understanding the Linux Kernel***
+
 ### Networking
 * ***CompTIA Network+ Certification All-in-One Exam Guide***
 * ***TCP/IP Illustrated, Vol. 1: The Protocols***
 
 ### Operating Systems
-* ***Advanced Programming in the UNIX Environment***
-* ***bash Cookbook: Solutions and Examples for bash Users***
-* ***Bash Pocket Reference: Help for Power Users and Sys Admins***
-* ***Classic Shell Scripting***
-* ***How Linux Works: What Every Superuser Should Know***
-* ***Learning the bash Shell***
-* ***Linux Bible***
-* ***Linux Command Line and Shell Scripting Bible***
-* ***Linux Kernel Development***
-* ***Linux Pocket Guide***
 * ***Modern Operating Systems***
-* ***The Unix Programming Environment***
-* ***Understanding the Linux Kernel***
+* ***Operating System Concepts***
+* ***Operating Systems: Design and Implementation***
 
 ### Programming Languages
 * ***C Programming Language***
@@ -97,11 +104,21 @@ anti-patterns. The following books cover those subjects.
 * ***sed & awk***
 * ***The Go Programming Language***
 
+### Requirements Engineering
+* ***Mastering the Requirements Process***
+* ***Requirements Engineering for Software and Systems***
+
 ### Security
 * ***CompTIA Security+ Get Certified Get Ahead***
 * ***IT Auditing: Using Controls to Protect Information Assets***
 * ***Linux Security Cookbook***
 * ***Securing DevOps: Security in the Cloud***
+
+### Shell Scripting
+* ***bash Cookbook: Solutions and Examples for bash Users***
+* ***Bash Pocket Reference: Help for Power Users and Sys Admins***
+* ***Classic Shell Scripting***
+* ***Learning the bash Shell***
 
 ### Software Engineering
 * ***Code Complete: A Practical Handbook of Software Construction***
@@ -109,6 +126,7 @@ anti-patterns. The following books cover those subjects.
 * ***Extreme Programming Explained: Embrace Change***
 * ***Fundamentals of Software Engineering***
 * ***Patterns of Enterprise Application Architecture***
+* ***Programming from the Ground Up***
 * ***Programming Pearls***
 * ***Release It!: Design and Deploy Production-Ready Software***
 * ***Refactoring: Improving the Design of Existing Code***
@@ -123,7 +141,6 @@ anti-patterns. The following books cover those subjects.
 * ***Computer Organization and Design***
 * ***Computer Systems: A Programmer's Perspective***
 * ***IT Systems Management: Designing, Implementing, and Managing World-Class Infrastructures***
-* ***Requirements Engineering for Software and Systems***
 * ***Site Reliability Engineering: How Google Runs Production Systems***
 * ***Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives***
 * ***Systems Architecture***
@@ -139,6 +156,12 @@ anti-patterns. The following books cover those subjects.
 * ***Software Testing***
 * ***Software Testing Techniques***
 * ***Testing Computer Software***
+
+### Unix
+* ***Advanced Programming in the UNIX Environment***
+* ***POSIX Programmers Guide***
+* ***The Art of UNIX Programming***
+* ***The Unix Programming Environment***
 
 ### Version Control
 * ***Git Pocket Guide: A Working Introduction***
