@@ -82,7 +82,6 @@ anti-patterns. The following books cover those subjects.
 * ***Linux Kernel Development***
 * ***Linux Pocket Guide***
 * ***Linux System Programming: Talking Directly to the Kernel and C Library***
-* ***POSIX Programmers Guide***
 * ***Understanding Linux Network Internals: Guided Tour to Networking on Linux***
 * ***Understanding the Linux Kernel***
 
