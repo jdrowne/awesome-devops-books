@@ -45,7 +45,6 @@ Agile will likely be the systems development approach used by DevOps
 organizations. You must thus understand its concepts, origins, and
 anti-patterns. The following books cover those subjects.
 * ***Agile Estimating and Planning***
-* ***Agile Extension to the BABOK Guide***
 * ***Scrum: a Breathtakingly Brief and Agile Introduction*** by Chris Sims and [@hillaryjohnson](https://github.com/hillaryjohnson). *The* Scrum book your team will be flicking through every week to implement Scrum properly. A quick read.
 * ***User Stories Applied: For Agile Software Development***
 
@@ -83,6 +82,7 @@ anti-patterns. The following books cover those subjects.
 * ***Linux Kernel Development***
 * ***Linux Pocket Guide***
 * ***Linux System Programming: Talking Directly to the Kernel and C Library***
+* ***POSIX Programmers Guide***
 * ***Understanding Linux Network Internals: Guided Tour to Networking on Linux***
 * ***Understanding the Linux Kernel***
 
@@ -105,6 +105,8 @@ anti-patterns. The following books cover those subjects.
 * ***The Go Programming Language***
 
 ### Requirements Engineering
+* ***A Guide to the Business Analysis Body of Knowledge***
+* ***Agile Extension to the BABOK Guide***
 * ***Mastering the Requirements Process***
 * ***Requirements Engineering for Software and Systems***
 
@@ -191,7 +193,6 @@ anti-patterns. The following books cover those subjects.
 
 ### Organizational Management
 * ***A Guide to Benefit-Cost Analysis***
-* ***A Guide to the Business Analysis Body of Knowledge***
 * ***Leadership: Theory and Practice***
 * ***Managing Human Behavior in Public and Nonprofit Organizations***
 * ***One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964: The Secret History of the Cuban Missile Crisis***
