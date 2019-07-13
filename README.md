@@ -40,19 +40,18 @@ practices.
 
 
 ## Technical
-As a DevOps practitioner you must master several technical concepts and
-technologies. The following books focus on several DevOps concepts and technologies.
+The following books focus on several SRE concepts and technologies.
 
 ### Agile
-Agile will likely be the systems development approach used by DevOps
-organizations. You must thus understand its concepts, origins, and
-anti-patterns. The following books cover those subjects.
+Agile will likely be the systems development approach used by SREs. You must
+thus understand its concepts, origins, and anti-patterns. The following books
+cover those subjects.
 * ***Agile Estimating and Planning***
 * ***Scrum: a Breathtakingly Brief and Agile Introduction*** by Chris Sims and [@hillaryjohnson](https://github.com/hillaryjohnson). *The* Scrum book your team will be flicking through every week to implement Scrum properly. A quick read.
 * ***User Stories Applied: For Agile Software Development***
 
 ### CI/CD
-* ***Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*** by [@jezhumble](https://github.com/jezhumble) and [@davidfarley77](https://github.com/davidfarley). The seminal book that changed the systems development field forever. Many had written about CI/CD concepts before, but Humble and Farley were the first to write a publication that cohesively encompassed all the aspects of continuous delivery into a single tome. CD has evolved since the book's publication, but *the* CD book is a must-read for every DevOps practitioner.
+* ***Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*** by [@jezhumble](https://github.com/jezhumble) and [@davidfarley77](https://github.com/davidfarley). The seminal book that changed the systems development field forever. Many had written about CI/CD concepts before, but Humble and Farley were the first to write a publication that cohesively encompassed all the aspects of continuous delivery into a single tome. CD has evolved since the book's publication, but *the* CD book is a must-read for every SRE.
 * ***Continuous Integration: Improving Software Quality and Reducing Risk*** by [@paulduvall](https://github.com/paulduvall), Steve Matyas, and [@aglover](https://github.com/aglover). A product of its time. This CI book paved the way for others to expand on CI/CD practices.
 * ***Jenkins 2: Up & Running*** by [@brentlaster](https://github.com/brentlaster) and endorsed by [@koshuke](https://github.com/koshuke) himself.
 
