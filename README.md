@@ -15,6 +15,7 @@ This is a list of curated books related to DevOps practices.
   * [Requirements Engineering](#requirements-engineering)
   * [Security](#security)
   * [Shell Scripting](#shell-scripting)
+  * [Site Reliability Engineering](#site-reliability-engineering)
   * [Software Engineering](#software-engineering)
   * [Systems](#systems)
   * [Testing](#testing)
@@ -87,6 +88,7 @@ anti-patterns. The following books cover those subjects.
 
 ### Networking
 * ***CompTIA Network+ Certification All-in-One Exam Guide***
+* ***Computer Networks***
 * ***TCP/IP Illustrated, Vol. 1: The Protocols***
 
 ### Operating Systems
@@ -121,6 +123,10 @@ anti-patterns. The following books cover those subjects.
 * ***Classic Shell Scripting***
 * ***Learning the bash Shell***
 
+### Site Reliability Engineering
+* ***Site Reliability Engineering: How Google Runs Production Systems***
+* ***The Site Reliability Workbook: Practical Ways to Implement SRE***
+
 ### Software Engineering
 * ***Code Complete: A Practical Handbook of Software Construction***
 * ***Design Patterns: Elements of Reusable Object-Oriented Software***
@@ -141,12 +147,15 @@ anti-patterns. The following books cover those subjects.
 ### Systems
 * ***Computer Organization and Design***
 * ***Computer Systems: A Programmer's Perspective***
-* ***IT Systems Management: Designing, Implementing, and Managing World-Class Infrastructures***
-* ***Site Reliability Engineering: How Google Runs Production Systems***
 * ***Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives***
 * ***Systems Architecture***
+
+### Systems Administration
+* ***Autonomic Computing: Concepts, Infrastructure, and Applications***
+* ***IT Systems Management: Designing, Implementing, and Managing World-Class Infrastructures***
+* ***Linux Administration: A Beginner’s Guide***
 * ***The Practice of System and Network Administration***
-* ***The Site Reliability Workbook: Practical Ways to Implement SRE***
+* ***UNIX and Linux System Administration Handbook***
 
 ### Testing
 * ***A Friendly Introduction to Software Testing***
@@ -162,6 +171,7 @@ anti-patterns. The following books cover those subjects.
 * ***Advanced Programming in the UNIX Environment***
 * ***POSIX Programmers Guide***
 * ***The Art of UNIX Programming***
+* ***The Design of the UNIX Operating System***
 * ***The Unix Programming Environment***
 
 ### Version Control
