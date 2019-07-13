@@ -1,5 +1,6 @@
-# awesome-devops-books [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-This is a list of curated books related to DevOps practices.
+# awesome-sre-books [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+This is a list of curated books related to Site Reliability Engineering (SRE)
+practices.
 
 ## Table of Contents
 - [Technical Books](#technical-books)
@@ -18,6 +19,7 @@ This is a list of curated books related to DevOps practices.
   * [Site Reliability Engineering](#site-reliability-engineering)
   * [Software Engineering](#software-engineering)
   * [Systems](#systems)
+  * [Systems Administration](#systems-administration)
   * [Testing](#testing)
   * [Unix](#unix)
   * [Version Control](#version-control)
