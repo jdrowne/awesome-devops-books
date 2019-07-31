@@ -10,6 +10,7 @@ practices.
   * [DevOps](#devops)
   * [Infrastructure](#infrastructure)
   * [Linux](#linux)
+  * [Monitoring](#monitoring)
   * [Networking](#networking)
   * [Operating Systems](#operating-systems)
   * [Programming Languages](#programming-languages)
@@ -89,6 +90,10 @@ cover those subjects.
 * ***The Linux Command Line***
 * ***Understanding Linux Network Internals: Guided Tour to Networking on Linux***
 * ***Understanding the Linux Kernel***
+
+### Monitoring
+* ***Practical Monitoring: Effective Strategies for the Real World***
+* ***Prometheus: Up & Running: Infrastructure and Application Performance Monitoring***
 
 ### Networking
 * ***CompTIA Network+ Certification All-in-One Exam Guide***
