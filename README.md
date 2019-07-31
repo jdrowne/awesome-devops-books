@@ -101,10 +101,15 @@ cover those subjects.
 * ***C Programming Language***
 * ***Groovy in Action***
 * ***Java Software Solutions: Foundations of Program Design***
-* ***Python Pocket Reference***
-* ***Python Programming for the Absolute Beginner***
 * ***sed & awk***
 * ***The Go Programming Language***
+
+### Python
+* ***Automate the Boring Stuff with Python***
+* ***Python Cookbook***
+* ***Python Crash Course***
+* ***Python Pocket Reference***
+* ***Python Programming for the Absolute Beginner***
 
 ### Requirements Engineering
 * ***A Guide to the Business Analysis Body of Knowledge***
