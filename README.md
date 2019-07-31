@@ -13,6 +13,7 @@ practices.
   * [Networking](#networking)
   * [Operating Systems](#operating-systems)
   * [Programming Languages](#programming-languages)
+  * [Python](#python)
   * [Requirements Engineering](#requirements-engineering)
   * [Security](#security)
   * [Shell Scripting](#shell-scripting)
@@ -76,6 +77,7 @@ cover those subjects.
 
 ### Linux
 * ***How Linux Works: What Every Superuser Should Know***
+* ***Linux Administration: A Beginner's Guide***
 * ***Linux and the Unix Philosophy***
 * ***Linux Bible***
 * ***Linux Core Kernel Commentary: Guide to Insider's Knowledge on the Core Kernel of the Linux Code***
@@ -84,6 +86,7 @@ cover those subjects.
 * ***Linux Kernel Development***
 * ***Linux Pocket Guide***
 * ***Linux System Programming: Talking Directly to the Kernel and C Library***
+* ***The Linux Command Line***
 * ***Understanding Linux Network Internals: Guided Tour to Networking on Linux***
 * ***Understanding the Linux Kernel***
 
