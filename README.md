@@ -74,6 +74,7 @@ anti-patterns. The following books cover those subjects.
 * ***HTTP: The Definitive Guide***
 * ***Infrastructure as Code: Managing Servers in the Cloud*** by [@kief](https://github.com/kief). The best book in the market that details every major pattern and anti-pattern on how to manage infrastructure properly in the modern world. Explains why and what rather than how.
 * ***Terraform: Up & Running*** by [@brikis98](https://github.com/brikis) from [@gruntwork](https://github.com/gruntwork). Briefly explains why and what to then dig deep into the how. Even though the book is written from a Terraform perspective, it should be read by anyone who manages infrastructure.
+* *** Essential Infrastructure as Code*** by [@joatmon08](https://github.com/joatmon08). Book about how to create, test, and deploy infrastructure components in a way that’s easy to scale and share across an entire organization.
 
 ### Linux
 * ***How Linux Works: What Every Superuser Should Know***
