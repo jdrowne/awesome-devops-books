@@ -55,6 +55,7 @@ anti-patterns. The following books cover those subjects.
 * ***Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*** by [@jezhumble](https://github.com/jezhumble) and [@davidfarley77](https://github.com/davidfarley). The seminal book that changed the systems development field forever. Many had written about CI/CD concepts before, but Humble and Farley were the first to write a publication that cohesively encompassed all the aspects of continuous delivery into a single tome. CD has evolved since the book's publication, but *the* CD book is a must-read for every DevOps practitioner.
 * ***Continuous Integration: Improving Software Quality and Reducing Risk*** by [@paulduvall](https://github.com/paulduvall), Steve Matyas, and [@aglover](https://github.com/aglover). A product of its time. This CI book paved the way for others to expand on CI/CD practices.
 * ***Jenkins 2: Up & Running*** by [@brentlaster](https://github.com/brentlaster) and endorsed by [@koshuke](https://github.com/koshuke) himself.
+* ***Grokking Continuous Delivery*** by [@bobcatfish](https://github.com/bobcatfish). Grokking Continuous Delivery teaches you the design and purpose of continuous delivery systems that you can use with any language or stack.
 
 ### Containers
 * ***Docker Deep Dive*** by [@nigelpoulton](https://github.com/nigelpoulton), a Docker Captain. The book to-go for starting to learn about Docker.
@@ -74,6 +75,7 @@ anti-patterns. The following books cover those subjects.
 * ***HTTP: The Definitive Guide***
 * ***Infrastructure as Code: Managing Servers in the Cloud*** by [@kief](https://github.com/kief). The best book in the market that details every major pattern and anti-pattern on how to manage infrastructure properly in the modern world. Explains why and what rather than how.
 * ***Terraform: Up & Running*** by [@brikis98](https://github.com/brikis) from [@gruntwork](https://github.com/gruntwork). Briefly explains why and what to then dig deep into the how. Even though the book is written from a Terraform perspective, it should be read by anyone who manages infrastructure.
+* *** Essential Infrastructure as Code*** by [@joatmon08](https://github.com/joatmon08). Book about how to create, test, and deploy infrastructure components in a way that’s easy to scale and share across an entire organization.
 
 ### Linux
 * ***How Linux Works: What Every Superuser Should Know***
