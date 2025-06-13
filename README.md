@@ -68,12 +68,13 @@ anti-patterns. The following books cover those subjects.
 * ***Start and Scaling DevOps in the Enterprise***
 * ***The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations*** by [@genekim](https://github.com/genekim), [@jedi4ever](https://github.com/jedi), [@botchagalupe](https://github.com/botchagalupe), and [@jezhumble](https://github.com/jezhumble). A non-fiction follow up to *The Phoenix Project*. The book explains several DevOps practices and provides several case-studies of how those practices worked in real life for different organizations.
 * ***The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*** by [@genekim](https://github.com/genekim), Kevin Behr, and George Spafford. A fictional book that provides context on how DevOps can increase productivity.
+* ***Fundamentals of DevOps and Software Delivery*** by [@brikis98](https://github.com/brikis98/) of [@gruntwork-io](https://github.com/gruntwork-io). A hands-on guide to deploying and managing software in production, including deploying applications and microservices to the cloud, managing your infrastructure as code, automating your software delivery lifecycle in a CI/CD pipeline, configuring networking, setting up data stores, hooking up monitoring, and much more.
 
 ### Infrastructure
 * ***Ansible for DevOps: Server and Configuration Management for Humans*** by [@geerlinguy](https://github.com/geerlinguy). A product of its time but still a great practical introduction to Ansible.
 * ***HTTP: The Definitive Guide***
 * ***Infrastructure as Code: Managing Servers in the Cloud*** by [@kief](https://github.com/kief). The best book in the market that details every major pattern and anti-pattern on how to manage infrastructure properly in the modern world. Explains why and what rather than how.
-* ***Terraform: Up & Running*** by [@brikis98](https://github.com/brikis) from [@gruntwork](https://github.com/gruntwork). Briefly explains why and what to then dig deep into the how. Even though the book is written from a Terraform perspective, it should be read by anyone who manages infrastructure.
+* ***Terraform: Up & Running*** by [@brikis98](https://github.com/brikis98/) from [@gruntwork-io](https://github.com/gruntwork-io). Briefly explains why and what to then dig deep into the how. Even though the book is written from a Terraform perspective, it should be read by anyone who manages infrastructure.
 
 ### Linux
 * ***How Linux Works: What Every Superuser Should Know***
